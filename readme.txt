@@ -17,6 +17,6 @@ Notes:
 Author:  Francis Nathanael De Villena | BSCS2A | fnodevillena@usep.edu.ph
 Version 2.2 2020/11/26
 
-Please watch "Test Footage" first, then run "CaesarMykowski.jar".
+Kindly contact me if you want to use the source code or any other issues.
 
 There are some test text files within files\plaintexts, kindly check it out.
