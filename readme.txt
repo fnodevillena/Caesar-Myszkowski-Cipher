@@ -14,7 +14,7 @@ Notes:
 - Does not preserve punctuations, spaces, and digits in the ciphering process.
 - Only works if all text is compatible with ASCII.
 
-Author:  Francis Nathanael De Villena | BSCS2A | fnodevillena@usep.edu.ph
+Author:  Francis Nathanael De Villena | fnodevillena@usep.edu.ph
 Version 2.2 2020/11/26
 
 Kindly contact me if you want to use the source code or any other issues.
